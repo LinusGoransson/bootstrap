@@ -28,6 +28,9 @@ $RECYCLE.BIN/
 .AppleDouble
 .LSOverride
 
+# BowerComponments
+/bower_components
+
 # Thumbnails
 ._*
 
